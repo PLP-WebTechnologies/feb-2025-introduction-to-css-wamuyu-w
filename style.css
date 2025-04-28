@@ -1,0 +1,46 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    background-color:rgb(211, 198, 237);
+}
+
+h1{
+    color:purple;
+    font-weight:300;
+    font-style: italic;
+}git
+section img {
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    border: 5px solid #95a5a6;
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+}
+#form{
+    background-color: rgb(160, 123, 200);
+    text-align: left;
+    align-items: baseline;
+    width:300px;
+    margin: 20px;
+    padding: 5px 5px 5px 5px;
+
+}
+
+#form label{
+    color:black;
+    font-size: 20px;
+    font-display:block;
+    align-self: center;
+
+}
+#form input{
+    width: 150px;
+    height:30px;
+}
+.button button{
+    border-radius: 10px;
+    width:100px;
+    height:fit-content;
+}
